@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luc4scatto
 - 👀 I’m interested in 3D Graphics
-- 🌱 I’m currently learning a lot of stuff: Unreal Engine, Touchdesigner, Python
+- 🌱 I’m currently learning a lot of stuff like Unreal Engine, Touchdesigner, Omniverse, Python...
 - 📫 How to reach me: scattolinluca2@gmail.com
 
 <!---
