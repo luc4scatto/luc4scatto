@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luc4scatto
 - 👀 I’m interested in 3D Graphics
 - 🌱 I’m currently learning a lot of stuff like Unreal Engine, Touchdesigner, Omniverse, Python...
-- 📫 How to reach me: scattolinluca2@gmail.com
+- 📫 How to reach me: visit my website lucascattolin.com
 
 <!---
 luc4scatto/luc4scatto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
